@@ -1,0 +1,11 @@
+Compile and run instructions
+
+1. Open up command prompt on your device
+2. CD into the folder that contains the program
+3. Type "javac *.java" to compile
+4. Type java Life.java + the required parameters
+
+Parameters:
+ 	- (int) n is the number of iterations ex: 500
+	- (int) dimensions is the size of the grid ex: 50
+	- (String) config is the starting configuration of the grid. Can be "R", "P", "S", "G"
